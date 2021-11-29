@@ -1,0 +1,11 @@
+/workspaces/csharp/Variables/bin/Debug/netcoreapp2.1/Variables.deps.json
+/workspaces/csharp/Variables/bin/Debug/netcoreapp2.1/Variables.runtimeconfig.json
+/workspaces/csharp/Variables/bin/Debug/netcoreapp2.1/Variables.runtimeconfig.dev.json
+/workspaces/csharp/Variables/bin/Debug/netcoreapp2.1/Variables.dll
+/workspaces/csharp/Variables/bin/Debug/netcoreapp2.1/Variables.pdb
+/workspaces/csharp/Variables/obj/Debug/netcoreapp2.1/Variables.csprojAssemblyReference.cache
+/workspaces/csharp/Variables/obj/Debug/netcoreapp2.1/Variables.csproj.CoreCompileInputs.cache
+/workspaces/csharp/Variables/obj/Debug/netcoreapp2.1/Variables.AssemblyInfoInputs.cache
+/workspaces/csharp/Variables/obj/Debug/netcoreapp2.1/Variables.AssemblyInfo.cs
+/workspaces/csharp/Variables/obj/Debug/netcoreapp2.1/Variables.dll
+/workspaces/csharp/Variables/obj/Debug/netcoreapp2.1/Variables.pdb

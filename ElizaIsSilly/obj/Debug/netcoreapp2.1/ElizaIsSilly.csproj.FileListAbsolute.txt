@@ -1,0 +1,11 @@
+/workspaces/csharp/ElizaIsSilly/bin/Debug/netcoreapp2.1/ElizaIsSilly.deps.json
+/workspaces/csharp/ElizaIsSilly/bin/Debug/netcoreapp2.1/ElizaIsSilly.runtimeconfig.json
+/workspaces/csharp/ElizaIsSilly/bin/Debug/netcoreapp2.1/ElizaIsSilly.runtimeconfig.dev.json
+/workspaces/csharp/ElizaIsSilly/bin/Debug/netcoreapp2.1/ElizaIsSilly.dll
+/workspaces/csharp/ElizaIsSilly/bin/Debug/netcoreapp2.1/ElizaIsSilly.pdb
+/workspaces/csharp/ElizaIsSilly/obj/Debug/netcoreapp2.1/ElizaIsSilly.csprojAssemblyReference.cache
+/workspaces/csharp/ElizaIsSilly/obj/Debug/netcoreapp2.1/ElizaIsSilly.csproj.CoreCompileInputs.cache
+/workspaces/csharp/ElizaIsSilly/obj/Debug/netcoreapp2.1/ElizaIsSilly.AssemblyInfoInputs.cache
+/workspaces/csharp/ElizaIsSilly/obj/Debug/netcoreapp2.1/ElizaIsSilly.AssemblyInfo.cs
+/workspaces/csharp/ElizaIsSilly/obj/Debug/netcoreapp2.1/ElizaIsSilly.dll
+/workspaces/csharp/ElizaIsSilly/obj/Debug/netcoreapp2.1/ElizaIsSilly.pdb
