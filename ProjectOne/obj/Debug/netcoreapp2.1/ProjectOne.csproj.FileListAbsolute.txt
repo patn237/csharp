@@ -1,0 +1,11 @@
+/workspaces/csharp/ProjectOne/bin/Debug/netcoreapp2.1/ProjectOne.deps.json
+/workspaces/csharp/ProjectOne/bin/Debug/netcoreapp2.1/ProjectOne.runtimeconfig.json
+/workspaces/csharp/ProjectOne/bin/Debug/netcoreapp2.1/ProjectOne.runtimeconfig.dev.json
+/workspaces/csharp/ProjectOne/bin/Debug/netcoreapp2.1/ProjectOne.dll
+/workspaces/csharp/ProjectOne/bin/Debug/netcoreapp2.1/ProjectOne.pdb
+/workspaces/csharp/ProjectOne/obj/Debug/netcoreapp2.1/ProjectOne.csprojAssemblyReference.cache
+/workspaces/csharp/ProjectOne/obj/Debug/netcoreapp2.1/ProjectOne.csproj.CoreCompileInputs.cache
+/workspaces/csharp/ProjectOne/obj/Debug/netcoreapp2.1/ProjectOne.AssemblyInfoInputs.cache
+/workspaces/csharp/ProjectOne/obj/Debug/netcoreapp2.1/ProjectOne.AssemblyInfo.cs
+/workspaces/csharp/ProjectOne/obj/Debug/netcoreapp2.1/ProjectOne.dll
+/workspaces/csharp/ProjectOne/obj/Debug/netcoreapp2.1/ProjectOne.pdb
