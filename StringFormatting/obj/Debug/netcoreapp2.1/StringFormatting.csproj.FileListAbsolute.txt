@@ -1,0 +1,11 @@
+/workspaces/csharp/StringFormatting/bin/Debug/netcoreapp2.1/StringFormatting.deps.json
+/workspaces/csharp/StringFormatting/bin/Debug/netcoreapp2.1/StringFormatting.runtimeconfig.json
+/workspaces/csharp/StringFormatting/bin/Debug/netcoreapp2.1/StringFormatting.runtimeconfig.dev.json
+/workspaces/csharp/StringFormatting/bin/Debug/netcoreapp2.1/StringFormatting.dll
+/workspaces/csharp/StringFormatting/bin/Debug/netcoreapp2.1/StringFormatting.pdb
+/workspaces/csharp/StringFormatting/obj/Debug/netcoreapp2.1/StringFormatting.csprojAssemblyReference.cache
+/workspaces/csharp/StringFormatting/obj/Debug/netcoreapp2.1/StringFormatting.csproj.CoreCompileInputs.cache
+/workspaces/csharp/StringFormatting/obj/Debug/netcoreapp2.1/StringFormatting.AssemblyInfoInputs.cache
+/workspaces/csharp/StringFormatting/obj/Debug/netcoreapp2.1/StringFormatting.AssemblyInfo.cs
+/workspaces/csharp/StringFormatting/obj/Debug/netcoreapp2.1/StringFormatting.dll
+/workspaces/csharp/StringFormatting/obj/Debug/netcoreapp2.1/StringFormatting.pdb

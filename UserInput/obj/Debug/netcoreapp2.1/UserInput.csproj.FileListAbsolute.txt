@@ -1,0 +1,11 @@
+/workspaces/csharp/UserInput/bin/Debug/netcoreapp2.1/UserInput.deps.json
+/workspaces/csharp/UserInput/bin/Debug/netcoreapp2.1/UserInput.runtimeconfig.json
+/workspaces/csharp/UserInput/bin/Debug/netcoreapp2.1/UserInput.runtimeconfig.dev.json
+/workspaces/csharp/UserInput/bin/Debug/netcoreapp2.1/UserInput.dll
+/workspaces/csharp/UserInput/bin/Debug/netcoreapp2.1/UserInput.pdb
+/workspaces/csharp/UserInput/obj/Debug/netcoreapp2.1/UserInput.csprojAssemblyReference.cache
+/workspaces/csharp/UserInput/obj/Debug/netcoreapp2.1/UserInput.csproj.CoreCompileInputs.cache
+/workspaces/csharp/UserInput/obj/Debug/netcoreapp2.1/UserInput.AssemblyInfoInputs.cache
+/workspaces/csharp/UserInput/obj/Debug/netcoreapp2.1/UserInput.AssemblyInfo.cs
+/workspaces/csharp/UserInput/obj/Debug/netcoreapp2.1/UserInput.dll
+/workspaces/csharp/UserInput/obj/Debug/netcoreapp2.1/UserInput.pdb

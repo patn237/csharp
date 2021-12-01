@@ -1,0 +1,11 @@
+/workspaces/csharp/SimpleMenu/bin/Debug/netcoreapp2.1/SimpleMenu.deps.json
+/workspaces/csharp/SimpleMenu/bin/Debug/netcoreapp2.1/SimpleMenu.runtimeconfig.json
+/workspaces/csharp/SimpleMenu/bin/Debug/netcoreapp2.1/SimpleMenu.runtimeconfig.dev.json
+/workspaces/csharp/SimpleMenu/bin/Debug/netcoreapp2.1/SimpleMenu.dll
+/workspaces/csharp/SimpleMenu/bin/Debug/netcoreapp2.1/SimpleMenu.pdb
+/workspaces/csharp/SimpleMenu/obj/Debug/netcoreapp2.1/SimpleMenu.csprojAssemblyReference.cache
+/workspaces/csharp/SimpleMenu/obj/Debug/netcoreapp2.1/SimpleMenu.csproj.CoreCompileInputs.cache
+/workspaces/csharp/SimpleMenu/obj/Debug/netcoreapp2.1/SimpleMenu.AssemblyInfoInputs.cache
+/workspaces/csharp/SimpleMenu/obj/Debug/netcoreapp2.1/SimpleMenu.AssemblyInfo.cs
+/workspaces/csharp/SimpleMenu/obj/Debug/netcoreapp2.1/SimpleMenu.dll
+/workspaces/csharp/SimpleMenu/obj/Debug/netcoreapp2.1/SimpleMenu.pdb

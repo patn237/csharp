@@ -1,0 +1,11 @@
+/workspaces/csharp/HammerBitcoin/bin/Debug/netcoreapp2.1/HammerBitcoin.deps.json
+/workspaces/csharp/HammerBitcoin/bin/Debug/netcoreapp2.1/HammerBitcoin.runtimeconfig.json
+/workspaces/csharp/HammerBitcoin/bin/Debug/netcoreapp2.1/HammerBitcoin.runtimeconfig.dev.json
+/workspaces/csharp/HammerBitcoin/bin/Debug/netcoreapp2.1/HammerBitcoin.dll
+/workspaces/csharp/HammerBitcoin/bin/Debug/netcoreapp2.1/HammerBitcoin.pdb
+/workspaces/csharp/HammerBitcoin/obj/Debug/netcoreapp2.1/HammerBitcoin.csprojAssemblyReference.cache
+/workspaces/csharp/HammerBitcoin/obj/Debug/netcoreapp2.1/HammerBitcoin.csproj.CoreCompileInputs.cache
+/workspaces/csharp/HammerBitcoin/obj/Debug/netcoreapp2.1/HammerBitcoin.AssemblyInfoInputs.cache
+/workspaces/csharp/HammerBitcoin/obj/Debug/netcoreapp2.1/HammerBitcoin.AssemblyInfo.cs
+/workspaces/csharp/HammerBitcoin/obj/Debug/netcoreapp2.1/HammerBitcoin.dll
+/workspaces/csharp/HammerBitcoin/obj/Debug/netcoreapp2.1/HammerBitcoin.pdb
