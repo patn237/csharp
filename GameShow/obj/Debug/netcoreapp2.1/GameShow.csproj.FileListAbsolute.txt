@@ -1,0 +1,11 @@
+/workspaces/csharp/GameShow/bin/Debug/netcoreapp2.1/GameShow.deps.json
+/workspaces/csharp/GameShow/bin/Debug/netcoreapp2.1/GameShow.runtimeconfig.json
+/workspaces/csharp/GameShow/bin/Debug/netcoreapp2.1/GameShow.runtimeconfig.dev.json
+/workspaces/csharp/GameShow/bin/Debug/netcoreapp2.1/GameShow.dll
+/workspaces/csharp/GameShow/bin/Debug/netcoreapp2.1/GameShow.pdb
+/workspaces/csharp/GameShow/obj/Debug/netcoreapp2.1/GameShow.csprojAssemblyReference.cache
+/workspaces/csharp/GameShow/obj/Debug/netcoreapp2.1/GameShow.csproj.CoreCompileInputs.cache
+/workspaces/csharp/GameShow/obj/Debug/netcoreapp2.1/GameShow.AssemblyInfoInputs.cache
+/workspaces/csharp/GameShow/obj/Debug/netcoreapp2.1/GameShow.AssemblyInfo.cs
+/workspaces/csharp/GameShow/obj/Debug/netcoreapp2.1/GameShow.dll
+/workspaces/csharp/GameShow/obj/Debug/netcoreapp2.1/GameShow.pdb
