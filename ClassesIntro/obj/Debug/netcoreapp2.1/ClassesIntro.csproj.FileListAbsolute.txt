@@ -1,0 +1,11 @@
+/workspaces/csharp/ClassesIntro/bin/Debug/netcoreapp2.1/ClassesIntro.deps.json
+/workspaces/csharp/ClassesIntro/bin/Debug/netcoreapp2.1/ClassesIntro.runtimeconfig.json
+/workspaces/csharp/ClassesIntro/bin/Debug/netcoreapp2.1/ClassesIntro.runtimeconfig.dev.json
+/workspaces/csharp/ClassesIntro/bin/Debug/netcoreapp2.1/ClassesIntro.dll
+/workspaces/csharp/ClassesIntro/bin/Debug/netcoreapp2.1/ClassesIntro.pdb
+/workspaces/csharp/ClassesIntro/obj/Debug/netcoreapp2.1/ClassesIntro.csprojAssemblyReference.cache
+/workspaces/csharp/ClassesIntro/obj/Debug/netcoreapp2.1/ClassesIntro.csproj.CoreCompileInputs.cache
+/workspaces/csharp/ClassesIntro/obj/Debug/netcoreapp2.1/ClassesIntro.AssemblyInfoInputs.cache
+/workspaces/csharp/ClassesIntro/obj/Debug/netcoreapp2.1/ClassesIntro.AssemblyInfo.cs
+/workspaces/csharp/ClassesIntro/obj/Debug/netcoreapp2.1/ClassesIntro.dll
+/workspaces/csharp/ClassesIntro/obj/Debug/netcoreapp2.1/ClassesIntro.pdb
