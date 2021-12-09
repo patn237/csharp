@@ -11,11 +11,11 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/UserInput/bin/Debug/netcoreapp2.1/UserInput.dll",
+            "program": "${workspaceFolder}/ForLoop/bin/Debug/netcoreapp2.1/ForLoop.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/UserInput",
+            "cwd": "${workspaceFolder}/ForLoop",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
-            "console": "internalConsole",
+            "console": "integratedTerminal",
             "stopAtEntry": false
         },
         {
